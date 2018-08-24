@@ -3,8 +3,8 @@ import './App.css';
 
 // https://github.com/foursquare/react-foursquare
 var foursquare = require('react-foursquare')({
-  clientID: 'CYC5MILNA4YYPDIFYQ5RBP1TNNMYNPUQ3ZYHRQ24SDIQRFSF',
-  clientSecret: '23CALIDJKRAAMPEZMKODMBZQ4UV5GXL043ZK3FKDPWW5ZG5M'
+  clientID: 'JFX1CBGN2IRR4LIVYALKIQRMQ0UHTDIZQL3UT2NOYLQVAAE',
+  clientSecret: 'MV3PI22XZUJPISDNPG4BFGQKVGHBQCQ1RRWA2QDB4OJMWVDV'
 });
 
 class Foursquare extends Component {
