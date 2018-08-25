@@ -11,14 +11,14 @@ let markers = [];
 let marker;
 let largeInfoWindow;
 let locationState = [
-  {title: '23 And Me', location: {lat: 37.3818554, lng: -122.04109929999998}, venueID: '4ae8903bf964a5206eb021e3'},
-  {title: 'Mountain View High School', location: {lat: 37.360024, lng: -122.0683199}, venueID: '4acfcafff964a5200bd620e3'},
+  {title: '23andMe: DNA Genetic ', location: {lat: 37.3818554, lng: -122.04109929999998}, venueID: '4ae8903bf964a5206eb021e3'},
+  {title: 'MVHS', location: {lat: 37.360024, lng: -122.0683199}, venueID: '4acfcafff964a5200bd620e3'},
   {title: 'Google Building', location: {lat: 37.4000879, lng: -122.05524609999998}, venueID: '50379c31e4b0be420ec1826a'},
-  {title: 'Stanford University', location: {lat: 37.4278015, lng: -122.17005770000003}, venueID: '4a983497f964a520f02a20e3'},
-  {title: 'Whole Foods', location: {lat: 37.3989347, lng: -122.11063790000003}, venueID: '49f8a2e3f964a5200d6d1fe3'},
-  {title: 'El Camino Hospital', location: {lat: 37.3706448, lng: -122.078684599999970}, venueID: '4a77b401f964a52004e51fe3'},
-  {title: 'Starbucks', location: {lat: 37.38759659999999, lng: -122.08314899999999}, venueID: '4740b317f964a520724c1fe3'},
-  {title: 'Stanford Dish', location: {lat: 37.4020837, lng: -122.1003523}, venueID: '4a8723a4f964a520cf0220e3'},
+  {title: 'SU - Memorial Court', location: {lat: 37.4278015, lng: -122.17005770000003}, venueID: '4a983497f964a520f02a20e3'},
+  {title: 'Whole Foods Market', location: {lat: 37.3989347, lng: -122.11063790000003}, venueID: '49f8a2e3f964a5200d6d1fe3'},
+  {title: 'The Hospital of Silicon Valley', location: {lat: 37.3706448, lng: -122.078684599999970}, venueID: '4a77b401f964a52004e51fe3'},
+  {title: 'Starbucks Coffee', location: {lat: 37.38759659999999, lng: -122.08314899999999}, venueID: '4740b317f964a520724c1fe3'},
+  {title: 'Stanford Dish Loop Trail', location: {lat: 37.4020837, lng: -122.1003523}, venueID: '4a8723a4f964a520cf0220e3'},
   {title: 'Philz Coffee', location: {lat: 37.3772904, lng: -122.03143829999999}, venueID: '547e13a7498e8d4312025ce9'},
   {title: 'Foothill College', location: {lat: 37.3620489, lng: -122.12714210000001}, venueID: '49f667e7f964a5203e6c1fe3'}
 ]
