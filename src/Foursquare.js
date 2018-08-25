@@ -3,7 +3,7 @@ import './App.css';
 
 // https://github.com/foursquare/react-foursquare
 var foursquare = require('react-foursquare')({
-  clientID: 'JFX1CBGN2IRR4LIVYALKIQRMQ0UHTDIZQL3UT2NOYLQVAAE',
+  clientID: 'JFX1CBGN2IRR4LIVYALKIQRMQ0UHTDIZQL3UT2NOYLQVAAE0',
   clientSecret: 'MV3PI22XZUJPISDNPG4BFGQKVGHBQCQ1RRWA2QDB4OJMWVDV'
 });
 
