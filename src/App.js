@@ -37,7 +37,7 @@ state = {
     const fetchGoogleMaps = require('fetch-google-maps');
     //fetch google maps api and create a new map
     fetchGoogleMaps({
-        apiKey: 'AIzaSyC7uYChVm0w8cDKMlGmon0XbJDUiiBBc4g',
+        apiKey: 'AIzaSyDGZdgB6fgBlMDfTkf87jsPEu6TPYYCeUI',
         language: 'en',
         libraries: ['geometry']
     }).then(( maps ) => {
